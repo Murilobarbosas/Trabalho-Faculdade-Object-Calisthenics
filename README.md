@@ -1,2 +1,2 @@
 # Trabalho-Faculdade-Object-Calisthenics
-Repositório do trabalho de faculdade Object Calisthenics
+Repositório do trabalho de faculdade sobre Object Calisthenics
